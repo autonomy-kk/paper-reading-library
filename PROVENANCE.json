@@ -1,0 +1,212 @@
+{
+  "description": "原文来源固定提交与摘要；原来源许可见 LICENSES/，分章正文变更使用独立editionId。",
+  "sources": [
+    {
+      "bookId": "pg-24264",
+      "originalSha256": "20c795971786fd8eb2a00d35a1194b6dd3074b2afb4f4cd5a82ba3e10fe5dfaa",
+      "upstreamCommit": "f86ffb9dd67165e3e17c29ab3ea3d29fd5d00d34",
+      "upstreamBlob": "4f75f649a922cb1d3576b40e5ccd15baf367b594",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_24264/f86ffb9dd67165e3e17c29ab3ea3d29fd5d00d34/24264-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23962",
+      "originalSha256": "fc9a3956fd22b9a4356af8dd0dca27596fd0c9da87c35eae45c4f331c1b8f597",
+      "upstreamCommit": "6a0cca862cda18eefa8a3264372893308432e926",
+      "upstreamBlob": "b43d48dae12142a6e8707dcb68938d86beeb51e8",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_23962/6a0cca862cda18eefa8a3264372893308432e926/23962-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23839",
+      "originalSha256": "c466735d533e561510cde7ff0ee89122e39d1b79eab6f6e573c48fe1dfb7257d",
+      "upstreamCommit": "e028d5be5af7e32cf41c8ace8a1806ffa7e08a68",
+      "upstreamBlob": "d297c1e41ef10b2f845fbea61d79d412c2550a8b",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_23839/e028d5be5af7e32cf41c8ace8a1806ffa7e08a68/23839-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23873",
+      "originalSha256": "b8e35ce7895ac717c493c86f74efb16fd0f50f0f6b94b7c98492119e4a98dc32",
+      "upstreamCommit": "151f4671795f4cb194fb984d8b6b65b7e2b77e2d",
+      "upstreamBlob": "476b371d8b9daf5682248ba8419b5fbaa9982d10",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_23873/151f4671795f4cb194fb984d8b6b65b7e2b77e2d/23873-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-24032",
+      "originalSha256": "2e3fc99cca1f12cae0b20197e0a96a644eca8176eeacc056faa6367c1bf01d40",
+      "upstreamCommit": "3662849c840fa0e4d8d584597de0368c644a6530",
+      "upstreamBlob": "4c8de35cedef56d71d14fc6a0c52b9157532e5d4",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_24032/3662849c840fa0e4d8d584597de0368c644a6530/24032-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23863",
+      "originalSha256": "0359f6c063510047610b1e1e35ac94adc703591f7b10a451742056b1004465b9",
+      "upstreamCommit": "c87e4e172a2223559b25ada53345b94b2d20aaab",
+      "upstreamBlob": "b8811e4ea9340b572f943842e131f2ada6b2032e",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_23863/c87e4e172a2223559b25ada53345b94b2d20aaab/23863-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23864",
+      "originalSha256": "2565c1822a8b0ab695ca15f39e3e17328176e279458c72f04af70c11b5265074",
+      "upstreamCommit": "6cb35bc446fde5d11ba5abcd60721635a706ae97",
+      "upstreamBlob": "a3832f93fe8e7d39f245035e2acf70299ff1c8bc",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_23864/6cb35bc446fde5d11ba5abcd60721635a706ae97/23864-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-24178",
+      "originalSha256": "29132c3fcbd8b1684241b784d09526b2a2d23b68041277cef610dae70199ecbc",
+      "upstreamCommit": "b0d72316331295f54978c438d3960540364b3613",
+      "upstreamBlob": "587f25b87c663e7fc22faeeda873bee9ff954779",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_24178/b0d72316331295f54978c438d3960540364b3613/24178-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-24047",
+      "originalSha256": "0d0dfc8b51395d6c0a575ad85ae0a67d0489685d2cb9e1509d85167dff1fe458",
+      "upstreamCommit": "4a6bef076be854a59d6fbcc2159959d2c2316e6f",
+      "upstreamBlob": "bda414b49e48ef94f4f9de2fe29a47805c981cf3",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_24047/4a6bef076be854a59d6fbcc2159959d2c2316e6f/24047-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25192",
+      "originalSha256": "e4fff8bea6756fa45f79879f49a1348bf23dd4c6ba5de97ef24c7eac87cfbef8",
+      "upstreamCommit": "6ea20e7aaa14b8f4a11094f7c4bb8054b72c802d",
+      "upstreamBlob": "6cd394492003d8625a2b0582f271c1ce897684a0",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_25192/6ea20e7aaa14b8f4a11094f7c4bb8054b72c802d/25192-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25225",
+      "originalSha256": "7d47abce4ba184212bdee54b94e8d5f0d403601df1646f9656b6e55e2471d00e",
+      "upstreamCommit": "61e4e7c1356b63bbfd5991ca9f915e8dfaf15900",
+      "upstreamBlob": "49f0b9cfd60062b49ac930dc5679eafb30678186",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_25225/61e4e7c1356b63bbfd5991ca9f915e8dfaf15900/25225-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25288",
+      "originalSha256": "cded3fd260b1251a5e0a466e3b5bdbe81df3e6922fdbcd2a893db16a8ff8a90a",
+      "upstreamCommit": "73c1bdceae2d91eb82232577a073d0e8a06560cc",
+      "upstreamBlob": "b265c459447b1636d029d8c746dc0156da43f16c",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_25288/73c1bdceae2d91eb82232577a073d0e8a06560cc/25288-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-27166",
+      "originalSha256": "a463613c18c4ef9dbb129108b5f117fee96fe057035a505fb88a0b750ab38c5d",
+      "upstreamCommit": "a46bd11915390c86901785379c332b90232c1da0",
+      "upstreamBlob": "f08fc02857be81c94426a04676db51ce6ae40f41",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_27166/a46bd11915390c86901785379c332b90232c1da0/27166-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-24042",
+      "originalSha256": "70c2e4248d5da6556c6b551930cc52cd365472345637bd5c2c0f538b89d4f3eb",
+      "upstreamCommit": "ab23f6419778c85b9dcc33774837359910e80b1d",
+      "upstreamBlob": "d1bea547d3b3a39b787d85ae9f34c540c4ab459b",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_24042/ab23f6419778c85b9dcc33774837359910e80b1d/24042-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25242",
+      "originalSha256": "eef27031c46131b39af7879911d5778c96330aa087904785315c18433549a692",
+      "upstreamCommit": "4aea39d93632f092f186986e1ff6971216f1ad0f",
+      "upstreamBlob": "e00e3e9087e3cc7502e34f8d1e26963afee60330",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_25242/4aea39d93632f092f186986e1ff6971216f1ad0f/25242-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25271",
+      "originalSha256": "22a1a962585dbef778f97bf02a0db827fac5f5bb34e80bcf1390d679df79ac6f",
+      "upstreamCommit": "ea2c909233573b4d2464ac08710b05bc1dc155cd",
+      "upstreamBlob": "c0addb931096a28e97a1d2d491e1b909bb47016b",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_25271/ea2c909233573b4d2464ac08710b05bc1dc155cd/25271-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25297",
+      "originalSha256": "fea89cae4009a8af747d24c33334166ed358872c65cbff1e631fb5df1a8fae82",
+      "upstreamCommit": "d3db2e8ff90acf5b2d0aae5db441a59382f3cd71",
+      "upstreamBlob": "7bde7339bd00148808318f38c31cba0021b487b0",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_25297/d3db2e8ff90acf5b2d0aae5db441a59382f3cd71/25297-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25332",
+      "originalSha256": "175509eb01377c94f451e5636710618096691f0b484f9db580d68be6469afd64",
+      "upstreamCommit": "bb14b946cfc1fa12ce93f42619a848f24ffd058e",
+      "upstreamBlob": "94d860b8ee5d8c8c11fe391c9093fb49533f048f",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/----_25332/bb14b946cfc1fa12ce93f42619a848f24ffd058e/25332-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23823",
+      "originalSha256": "9c7d6588968636f5ffa74046ec549cf3e7e021b93137157b5fa842c454eed72a",
+      "upstreamCommit": "c5aa80f4c21a3992acd23fe736e45f517694642f",
+      "upstreamBlob": "3f91dcdd8ea94d066644337eb4cf08f9e56c0852",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_23823/c5aa80f4c21a3992acd23fe736e45f517694642f/23823-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-23949",
+      "originalSha256": "e944d2de6c8f908f321f70ad9068daf1e4c3b8381a03ce07699409df4ab38fdc",
+      "upstreamCommit": "34ab794bc44c275692ef4c22a788b452f20087eb",
+      "upstreamBlob": "e137ad549c74852e776dad0c3b76aab87e226ba7",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_23949/34ab794bc44c275692ef4c22a788b452f20087eb/23949-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-7337",
+      "originalSha256": "6abce56b84727e220f040ee49087e3d9b945d3ccde6eaa705e1051d26b03f490",
+      "upstreamCommit": "8b925c01fc8ea15df485fb778f90315c4de8381b",
+      "upstreamBlob": "cf313e80c79e13b2eea8977d97852bcb76f91b71",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_7337/8b925c01fc8ea15df485fb778f90315c4de8381b/7337-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-24226",
+      "originalSha256": "f81e3964cdc728cc5eb84392fe69be9878c30be897a6192f5ff4be65c5d8a7eb",
+      "upstreamCommit": "b2b9a1abc73211c9cb3bc65f1ebf08a19cd3c3c6",
+      "upstreamBlob": "47e0c79d82ccbf9c216add4701ab249e64f10e58",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/--_24226/b2b9a1abc73211c9cb3bc65f1ebf08a19cd3c3c6/24226-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    },
+    {
+      "bookId": "pg-25160",
+      "originalSha256": "8e9d7ad64c0210c5de877a41a1455e05bf9e33c1b2433592633aa9c5e4fad915",
+      "upstreamCommit": "16ce0c91a57be53691b90d46d9afb4089d94102f",
+      "upstreamBlob": "1eb0583090472ecf77706aa50c2d2aa7c949d748",
+      "originalUrl": "https://raw.githubusercontent.com/GITenberg/---_25160/16ce0c91a57be53691b90d46d9afb4089d94102f/25160-0.txt",
+      "curation": "paper-reading-curation-v3",
+      "checkedAt": "2026-11-06"
+    }
+  ]
+}
