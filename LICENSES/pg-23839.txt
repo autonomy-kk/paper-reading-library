@@ -378,3 +378,8 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
+
+Source production/editorial notes:
+Produced by Wen Yen
+子曰：「不患人之不己之，患不知人也。」 "己之" should be "己知"
